@@ -679,6 +679,10 @@
     .contact_taital {
         font-size: 28px;
     }
+    .contact_section iframe{
+        width: 400px;
+        height:600px;
+    }
     .email_text {
         width: 100%;
         padding-top: 90px;
